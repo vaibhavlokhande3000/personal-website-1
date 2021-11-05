@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+.bottom-container{
+    background: #f09678;
+    line-height: 2;
+    text-decoration: none;
+}
+.btn {
+    background: #6ec5ff;
+    background-image: -webkit-linear-gradient(top, #6ec5ff, #0a5f94);
+    background-image: -moz-linear-gradient(top, #6ec5ff, #0a5f94);
+    background-image: -ms-linear-gradient(top, #6ec5ff, #0a5f94);
+    background-image: -o-linear-gradient(top, #6ec5ff, #0a5f94);
+    background-image: linear-gradient(to bottom, #6ec5ff, #0a5f94);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    /* font-family: Arial; */
+    color: #ffffff;
+    font-size: 15px;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d180fc;
+    background-image: -webkit-linear-gradient(top, #d180fc, #ce3cfa);
+    background-image: -moz-linear-gradient(top, #d180fc, #ce3cfa);
+    background-image: -ms-linear-gradient(top, #d180fc, #ce3cfa);
+    background-image: -o-linear-gradient(top, #d180fc, #ce3cfa);
+    background-image: linear-gradient(to bottom, #d180fc, #ce3cfa);
+    text-decoration: none;
+  }
+  
+.contact-me{
+    padding-bottom:37px;
+}
+.footer-link{
+    position: relative;
+  
+    text-decoration: none;
+    padding: 0px 5px 5px 5px;
+    margin-bottom: 250px;
+}
+#img{
+position: relative;
+margin-top:0px;
+}
+.giphy-embed{
+    width:50%;
+}
+hr{
+    border-style: dotted;
+    border-bottom:none;
+    width:4%;
+    border-color:grey;
+    border-width: 15px;
+    margin:100px auto;
+}
+img.cloud1{
+    position: relative;
+    margin-right: 450px;
+}
+img.cloud2{
+    position:relative;
+    margin-left: 500px;
+}
+.middle-container{
+    background: #FEF9EF;
+line-height: 0.7;
+}
+.linkedin{
+    
+    padding:10px;
+    width: 2%;
+    /* margin: 5px; */
+}
+.twitter{
+padding:10px;
+    width: 2%;
+   
+}
+.instagram{
+padding:10px;
+    width: 2%;
+   
+}
+.profile img{
+    width:25%;
+}
+.top-container{
+    padding:20px 0 0 0;
+    background: #A2D2FF;
+    line-height: 0.5;
+}
+.top-container h1{
+    font-family: 'Great Vibes', cursive;
+    font-size:65px;
+    color:#E05D5D;
+}
+.top-container p{
+    position:relative;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: #FEF9EF;
+}
+
+.skill-row img{
+    width: 25%;
+}
+.skill-row1 p{
+    
+    line-height: 1;
+    width:65%;
+    margin:0 auto 0 auto;
+}
+.skill-row1 img{
+    width:20%;
+}
+.skills p{
+    line-height: 1;
+    width:50%;
+    margin:0 auto 0 auto;
+}
